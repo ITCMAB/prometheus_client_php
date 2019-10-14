@@ -18,10 +18,5 @@
             "Prometheus\\": "src/Prometheus/"
         }
     },
-    "autoload-dev": {
-        "psr-0": {
-            "Test\\Prometheus\\": "tests/"
-        }
-    },
     "license": "Apache-2.0"
 }
