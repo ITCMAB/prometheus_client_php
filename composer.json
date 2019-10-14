@@ -1,12 +1,6 @@
 {
-    "name": "endclothing/prometheus_client_php",
-    "version": "1.0.1",
-    "authors": [
-        {
-            "name": "Daniel Noel-Davies",
-            "email": "Daniel.Noel-Davies@endclothing.com"
-        }
-    ],
+    "name": "itcm/prometheus_client_php",
+    "version": "1.0.0",
     "require": {
         "php": "^7.3",
         "ext-json": "*",
